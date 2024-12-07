@@ -1,0 +1,12 @@
+background-color=#010a12DD
+font="noto sans mono 10"
+
+anchor=bottom-right
+
+outer-margin=20
+
+default-timeout=2000
+
+border-size=2
+border-color=#1f577a
+border-radius=5
