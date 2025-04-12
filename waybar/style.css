@@ -54,7 +54,7 @@ button:hover {
 }
 
 #workspaces button {
-    padding: 0 5px;
+    padding: 0 3px;
     background-color: transparent;
     color: #ffffff;
 }
@@ -66,7 +66,7 @@ button:hover {
 #workspaces button.active {
     background-color: rgba(39,87,118,0.4);
     box-shadow: inset 0 -3px #89c0e8;
-    border-radius: 3px;
+    border-radius: 0px;
 }
 
 #workspaces button.urgent {
@@ -95,7 +95,7 @@ button:hover {
 #scratchpad,
 #power-profiles-daemon,
 #mpd {
-    padding: 0 10px;
+    padding: 0 3px;
     color: #ffffff;
 }
 
@@ -217,10 +217,6 @@ label:focus {
     min-width: 100px;
 }
 
-#custom-media.custom-spotify {
-    background-color: #66cc99;
-}
-
 #custom-media.custom-vlc {
     background-color: #ffa000;
 }
@@ -234,8 +230,8 @@ label:focus {
 }
 
 #tray {
-    background-color: #47b9ff;
-    border-radius: 3px;
+    background-color: transparent;
+    border-radius: 0px;
 }
 
 #tray > .passive {
