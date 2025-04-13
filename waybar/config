@@ -89,8 +89,7 @@
     "clock": {
         // "timezone": "Europe/Moscow",
 	"interval": 1,
-        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
-        "format-alt": "{:%Y-%m-%d}",
+	"tooltip": false,
 	"format": "{:%I:%M:%S %d-%m-%Y}"
     },
     "cpu": {
