@@ -1,6 +1,6 @@
 * {
-	border-radius: 7px;
-	border-color: #083040;
+	border-radius: 5px;
+	border-color: #80c1ef;
 }
 
 window
@@ -8,7 +8,7 @@ window
 	font-size: 15px;
 	font-family: "Noto Sans Mono";
 
-	background-color: rgba(1, 10, 18, 0.8);
+	background-color: rgba(1, 10, 18, 0.9);
 	color: rgb(205, 231, 250);
 
 }
@@ -21,6 +21,7 @@ window
 #entry:selected
 {
 	background-color: rgba(31, 87, 122, 0.8);
+	border-radius: 0px;
 }
 
 #input
